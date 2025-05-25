@@ -220,18 +220,8 @@ function App() {
   ];
 
   const certifications = [
-    {
-      title: "Career Edge-Young Professional",
-      issuer: "TCSion",
-      year: "2025",
-      url: "https://www.tcsion.com/certificate/123",
-    },
-    {
-      title: "Data Visualization",
-      issuer: "TATA",
-      year: "2025",
-      url: "https://www.tatadigital.com/certificate/456",
-    },
+    
+    
     {
       title: "IBM Full Stack Software Developer",
       issuer: "IBM",
@@ -273,6 +263,18 @@ function App() {
       issuer: "GOOGLE",
       year: "2024",
       url: "https://coursera.org/share/109f4ffee87d4775df999575c5cce9aa",
+    },
+    {
+      title: "Career Edge-Young Professional",
+      issuer: "TCSion",
+      year: "2025",
+      url: "https://www.tcsion.com/certificate/123",
+    },
+    {
+      title: "Data Visualization",
+      issuer: "TATA",
+      year: "2025",
+      url: "https://www.tatadigital.com/certificate/456",
     },
     {
       title: "Data Science Professional",
