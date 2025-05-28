@@ -47,7 +47,7 @@ import {
   Glasses,
   Rocket,
 } from "lucide-react";
-import resumePdf from "./assets/resume/resume.pdf";
+import resumePdf from "./assets/resume/surendran v_resume.pdf";
 import profileImage from "./assets/images/profile.jpg";
 import Contact from "./Component/Contact";
 function App() {
@@ -380,7 +380,7 @@ function App() {
       <header className="fixed top-0 w-full bg-gray-800 shadow-lg z-50">
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between gap-8">
-            <h1 className="text-2xl font-bold">Portfolio</h1>
+            <h1 className="text-2xl font-bold">Surendran</h1>
 
             {/* Desktop Navigation */}
             <nav className="hidden md:flex items-center space-x-6">
