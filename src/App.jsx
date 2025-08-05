@@ -47,7 +47,7 @@ import {
   Glasses,
   Rocket,
 } from "lucide-react";
-import resumePdf from "./assets/resume/surendran v_resume.pdf";
+import resumePdf from "./assets/resume/SURENDRAN_resume.pdf";
 import profileImage from "./assets/images/profile.jpg";
 import Contact from "./Component/Contact";
 function App() {
